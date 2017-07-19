@@ -3,7 +3,7 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 15
 VisualStudioVersion = 15.0.26430.6
 MinimumVisualStudioVersion = 10.0.40219.1
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSToolbox", "PSToolbox.csproj", "{A79F137D-417B-44B0-B352-D5AE1856616A}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "PSToolbox", "PSToolbox\PSToolbox.csproj", "{A79F137D-417B-44B0-B352-D5AE1856616A}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
